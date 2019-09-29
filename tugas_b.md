@@ -5,11 +5,15 @@ NRP: `isi nrp disini`
 
 
 ## DESKRIPSI SOAL
-buatlah sebuah Bank dengan uml berikut
-http://tutorialjava.tripod.com/Java%20Project/Lab%20Exercise%206-1.htm
+Buatlah sebuah sistem diskon pada sebuah toko yang mempunyai 3 jenis membership: *Premium, Gold, Silver* yang mempunyai diskon 20%,15% dan 10%.
+Customer yang tidak mempunyai membership tidak mendapatkan diskon.
+Tugas ini harus mempunyai 3 kelas: `Customer`, `Diskon`, dan `Visit` yang relasinya ditunjukkan sebagai berikut
+![](https://www.ntu.edu.sg/home/ehchua/programming/java/images/ExerciseOOP_Discount.png)
+
+<small>seluruh DiscountRate adalah static, terlihat underline</small>
 
 ## soal
-buat 3 nasabah dengan transaksi sebagai berikut
+buat 4 member yang membeli barang yang sama seharga 982758, beserta total pembayarannya, tiap member harus mempunyai tipe membership yang berbeda.
 
 ## screenshot hasil
 `masukkan screenshot output disini`
