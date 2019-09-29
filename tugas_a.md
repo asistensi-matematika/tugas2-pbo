@@ -1,4 +1,5 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
+*soal ini berbobot lebih daripada soal sebelah*
 NAMA: `isi nama disini`
 
 NRP: `isi nrp disini`
