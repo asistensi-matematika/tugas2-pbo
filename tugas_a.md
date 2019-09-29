@@ -24,8 +24,8 @@ penjelasan:(1 + i) * (1 + i) = 1 + i2 + 2 * i = 2i
 contoh 2
 ```
 input: "1+3i", "2+i"
-output: "-2+7i"
-penjelasan:(1+3i) * (2+i) = 2 + i + 6i + i2 = -2+7i
+output: "1+7i"
+penjelasan:(1+3i) * (2+i) = 2 + i + 6i + i2 = 1+7i
 ```
 
 ## soal
